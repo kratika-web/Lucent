@@ -1,6 +1,8 @@
 # Lucent – AI Mental Health Companion ✨
 
-Lucent is an AI-powered mental health companion that provides a safe space for students to talk, reflect, and understand their emotional patterns.
+🔗 **Live Demo:** https://huggingface.co/spaces/yourname/lucent
+
+Lucent is an AI-powered mental health companion that provides a safe space for students to talk, reflect, and understand emotional patterns.
 
 ## Features
 
@@ -32,8 +34,16 @@ Matplotlib (Radar charts)
 Install dependencies:
 !pip install transformers groq matplotlib numpy pandas gradio torch -q
 
+## Future Improvements
 
-## Disclaimer
+• Add long-term emotional trend visualization  
+• Improve conversational memory across sessions  
+• Add crisis detection safety layer  
+• Deploy as a mobile-friendly web application  
 
+## Why This Project Matters
+
+Many students struggle silently with stress, anxiety, and self-doubt.  
+Lucent aims to provide a gentle AI companion that encourages reflection, emotional awareness, and small positive steps forward.
 Lucent is a supportive companion and **not a medical or diagnostic tool**.
 If in crisis, please get in touch with a professional helpline.

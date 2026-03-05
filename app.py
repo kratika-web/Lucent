@@ -1,5 +1,3 @@
-!pip install transformers groq matplotlib numpy pandas gradio torch -q
-
 from transformers import pipeline
 from groq import Groq
 import matplotlib.pyplot as plt

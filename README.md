@@ -1,6 +1,6 @@
 # Lucent – AI Mental Health Companion ✨
 
-🔗 **Live Demo:** https://huggingface.co/spaces/yourname/lucent
+🔗 **Live Demo:** [https://huggingface.co/spaces/yourname/lucent](https://huggingface.co/spaces/kratika24076536835854/AI-ML-Lucent)
 
 Lucent is an AI-powered mental health companion that provides a safe space for students to talk, reflect, and understand emotional patterns.
 

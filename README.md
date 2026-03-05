@@ -1,4 +1,4 @@
-# Lucent – AI Mental Health Companion
+# Lucent – AI Mental Health Companion ✨
 
 Lucent is an AI-powered mental health companion that provides a safe space for students to talk, reflect, and understand their emotional patterns.
 
